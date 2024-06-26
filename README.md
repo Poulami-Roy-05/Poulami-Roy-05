@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Poulami Roy, an Electronics & Communication Engineer.
+- 👋 Hi, I’m Poulami Roy, an Electronics & Communication Engineer.
 - 👀 I’m interested in Python Programming and Artificial Intelligence.
 - 🌱 I’m currently learning Machine Learning and Data Science.
 - 💞️ I’m looking to collaborate on projects related to Artificial Intelligence & Machine Learning.
